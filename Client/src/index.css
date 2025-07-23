@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply px-4 py-2 text-white rounded;
+}
+.btn-active {
+  @apply bg-green-500 hover:bg-green-700;
+}
+.input {
+  @apply px-4 py-2 border border-gray-300 rounded;
+}

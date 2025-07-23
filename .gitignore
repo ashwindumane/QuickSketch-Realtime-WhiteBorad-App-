@@ -1,0 +1,38 @@
+# Node modules for both Client-side and Server-side
+/Client/node_modules/
+/Server/node_modules/
+
+# Environment variable files for both Client-side and Server-side
+/Client/.env
+/Server/.env
+
+# Vercel Deployment files for both Client-side and Server-side
+/Client/.vercel
+/Server/.vercel
+/Server/vercel.json
+
+# Logs
+/logs/
+/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output for Client-side
+/Client/build/
+/Client/dist/
+/Client/out/
+
+# Dependency directories for Client-side (if using JSPM)
+Client/jspm_packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Other
+*.local
