@@ -1,4 +1,4 @@
-# 🎨 QuickSketch – Real-time Collaborative Whiteboard **Beta** • [Live Demo](https://quick-sketch-realtime-white-borad-a.vercel.app/)
+# 🎨 QuickSketch – Real-time Collaborative Whiteboard [Live Demo](https://quick-sketch-realtime-white-borad-a.vercel.app/)
 
 QuickSketch is a lightweight yet powerful whiteboard application that lets teams brainstorm, sketch, and annotate ideas in **real time**.  
 Built with modern web technologies, it supports creating, viewing, editing, and deleting drawings that may include free-hand lines, shapes, and text notes.
